@@ -8,5 +8,5 @@ Check suduku with processes:/
 
 Use with fork, pipes, file descriptors.
 
-## How the program run? 
+## Running the Code  
 ![runSuduku](https://user-images.githubusercontent.com/56959832/71641990-f3881400-2cac-11ea-9a5d-46fbd4383472.JPG)
